@@ -6,7 +6,7 @@ This project focuses on sentiment analysis of text data to classify opinions as 
 The objective of this project is to analyze text data and classify sentiments into positive, negative, or neutral categories. This helps understand customer opinions, feedback, and social media trends using Natural Language Processing techniques.
 
 ## Dataset
-Dataset 1 Link: (Add dataset link)
+Dataset 1 Link: Twitter_Data.csv.zip
 
 Dataset 2 Link: (Add dataset link)
 
