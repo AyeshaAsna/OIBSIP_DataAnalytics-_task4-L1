@@ -8,7 +8,7 @@ The objective of this project is to analyze text data and classify sentiments in
 ## Dataset
 Dataset 1 Link: Twitter_Data.csv.zip
 
-Dataset 2 Link: (Add dataset link)
+Dataset 2 Link: play-store-sentiment-analysis-of-user-reviews.ipynb
 
 The dataset contains text data such as customer reviews, feedback, or social media posts used for sentiment classification.
 
